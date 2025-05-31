@@ -42,10 +42,3 @@ Download the datasets from Google Drive:
 - [test.p](https://drive.google.com/file/d/19DTS1ZZTFju23bjYx2fpLIMFFs7ANrz6/view?usp=drivesdk)
 
 Place them in the project root directory before running the notebook.
-
-
-- [test.p](https://drive.google.com/your-link)
-
-Place them in the project root directory before running the notebook.
-
-
