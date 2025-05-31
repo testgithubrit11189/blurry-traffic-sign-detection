@@ -34,8 +34,7 @@ The dataset was provided in `.p` (Pickle) format:
 Due to GitHub file size limits, the dataset files are hosted externally.
 
 Download the datasets from Google Drive:
-- [train.p](## 📁 Dataset Download
-Due to GitHub file size limits, the dataset files are hosted externally.
+(## 📁 Dataset DownloadDue to GitHub file size limits, the dataset files are hosted externally)
 
 Download the datasets from Google Drive:
 - [train.p](https://drive.google.com/file/d/1e1WP8_gG9jwqjewAyDjyUphYmDCNMFsy/view?usp=drivesdk)
