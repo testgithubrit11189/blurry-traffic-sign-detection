@@ -30,3 +30,22 @@ The dataset was provided in `.p` (Pickle) format:
 3. Load dataset files (`train.p`, `valid.p`, `test.p`).
 4. Run the Jupyter notebook
 
+## 📁 Dataset Download
+Due to GitHub file size limits, the dataset files are hosted externally.
+
+Download the datasets from Google Drive:
+- [train.p](## 📁 Dataset Download
+Due to GitHub file size limits, the dataset files are hosted externally.
+
+Download the datasets from Google Drive:
+- [train.p](https://drive.google.com/file/d/1e1WP8_gG9jwqjewAyDjyUphYmDCNMFsy/view?usp=drivesdk)
+- [test.p](https://drive.google.com/file/d/19DTS1ZZTFju23bjYx2fpLIMFFs7ANrz6/view?usp=drivesdk)
+
+Place them in the project root directory before running the notebook.
+
+
+- [test.p](https://drive.google.com/your-link)
+
+Place them in the project root directory before running the notebook.
+
+
